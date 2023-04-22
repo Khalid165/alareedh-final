@@ -35,7 +35,13 @@ body{
 
 .about_us{
     font-family: 'Lateef', serif;
-    margin-left:20%
+    margin-left:20%;
+    margin-top:5%
+}
+
+.images{
+    padding-top:5%;
+    padding-bottom:5%
 }
 
 @media only screen and (max-width: 992px) {
