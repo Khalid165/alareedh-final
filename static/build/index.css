@@ -75,14 +75,16 @@ body{
 }
 
 
-
+.nav-link{
+ font-color:white;
+ padding-right:1000px
+}
 
 
 
 
 /* Document
-   ========================================================================== */
-
+   ========================================================================== */>
 /**
  * 1. Correct the line height in all browsers.
  * 2. Prevent adjustments of font size after orientation changes in iOS.
